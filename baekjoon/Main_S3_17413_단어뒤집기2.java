@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.Stack;
 
-public class Main_S3_17413_최영진 {
+public class Main_S3_17413 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
