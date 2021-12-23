@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
-public class Main_B1_10163_최영진 {
+public class Main_B1_10163_색종이 {
 
 	static int N;
 	public static void main(String[] args)throws Exception {
