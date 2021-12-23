@@ -6,7 +6,7 @@ import java.io.StringReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main_S4_10816_최영진_lowhigh찾기 {
+public class Main_S4_10816_lowhigh찾기 {
 
 	static int N,M,cnt;
 	static int arr[];
