@@ -11,7 +11,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 
-public class Main_G31_2412_최영진 {
+public class Main_G31_2412_암벽등반 {
 
 	static int n,T;
 	static class rock implements Comparable<rock>{
