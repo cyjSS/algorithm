@@ -6,7 +6,7 @@ import java.io.StringReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class Main_G5_15686_최영진 {
+public class Main_G5_15686 {
 	static int N,M,sum;
 	static int matrix[][],comb[],numbers[];
 	static ArrayList<XY> city1;
