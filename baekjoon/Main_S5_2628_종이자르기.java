@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
-public class Main_S5_2628_최영진 {
+public class Main_S5_2628 {
 
 	static boolean C[]; 
 	static boolean R[];
