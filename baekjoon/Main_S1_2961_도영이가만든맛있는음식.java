@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
-public class Main_S1_2961_최영진 {
+public class Main_S1_2961 {
 	static int N,Ans=Integer.MAX_VALUE;
 	static int sin[], sseun[];
 	static boolean isSelected[];
