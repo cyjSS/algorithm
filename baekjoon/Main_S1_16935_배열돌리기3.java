@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
-public class Main_16935_최영진 {
+public class Main_16935 {
 
 	static int N,M,R;
 	static int matrix[][];
