@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_S2_7562_최영진 {
+public class Main_S2_7562 {
 
 	static int T;
 	static int N;
