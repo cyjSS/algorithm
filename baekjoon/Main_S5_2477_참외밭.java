@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 /**  문제를 잘 파악안하면 이리저리 헤매다 못 푸는 문제!!!!!!!!!!!!!!!!!!!!!!! 나도 몰랐어!!!!!!!!!!!1*/
 /**  규칙을 제대로 찾아..... 이상하다 싶은건 아닌거야!!!!!!!!!!!!!!!!!!!!!!!*/
 
-public class Main_S5_2477_최영진 {
+public class Main_S5_2477 {
 	static int map[][] = new int[500][500];
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
