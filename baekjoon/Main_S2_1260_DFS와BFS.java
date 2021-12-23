@@ -8,7 +8,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 /**   1000개까지는 인접행렬 가능     */
 
-public class Main_S2_1260_최영진 {
+public class Main_S2_1260 {
 
 	static int N,M,V;
 	static int matrix[][];
