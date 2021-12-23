@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_G1_1194_최영진 {
+public class Main_G1_1194_달이차오른다,가자. {
 	static int N,M;
 	static char map[][];
 	static boolean visited[][][];
