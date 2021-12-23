@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main_S1_2667_최영진 {
+public class Main_S1_2667 {
 
 	static int N,dr[]= {-1,1,0,0},dc[]= {0,0,-1,1};
 	static int matrix[][];
