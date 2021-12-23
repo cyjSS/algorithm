@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
-public class Main_S4_10816_최영진_HashMap {
+public class Main_S4_10816_HashMap {
 
 	static int N,M,cnt;
 	public static void main(String[] args)throws Exception {
