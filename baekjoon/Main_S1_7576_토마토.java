@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_S1_7576_최영진 {
+public class Main_S1_7576 {
 	static int N,M;
 	static int map[][];
 	static int dr[]={-1,1,0,0}, dc[]={0,0,-1,1};
