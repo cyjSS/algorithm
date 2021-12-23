@@ -6,7 +6,7 @@ import java.io.StringReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main_S4_1920_최영진 {
+public class Main_S4_1920 {
 
 	static int N,M;
 	static int arr[];
