@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
-public class Main_B2_13300_최영진 {
+public class Main_B2_13300_방배정 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
