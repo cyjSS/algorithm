@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
-public class Main_S3_1449_최영진 {
+public class Main_S3_1449 {
 
 	static int N,L,cnt;
 	public static void main(String[] args) throws Exception{
