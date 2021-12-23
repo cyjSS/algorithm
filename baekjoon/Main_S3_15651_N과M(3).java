@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
-public class Main_S3_15651_최영진 {
+public class Main_S3_15651 {
 	static int N,M;
 	static int input[];
 	static StringBuilder sb = new StringBuilder();
