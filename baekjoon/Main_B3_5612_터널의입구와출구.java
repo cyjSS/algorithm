@@ -6,7 +6,7 @@ import java.io.StringReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main_B3_5612_최영진 {
+public class Main_B3_5612_터널의입구와출구 {
 
 	static int N;
 	public static void main(String[] args)throws Exception {
