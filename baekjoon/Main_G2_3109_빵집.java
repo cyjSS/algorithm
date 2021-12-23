@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
-public class Main_G2_3109_최영진 {
+public class Main_G2_3109_빵집 {
 
 	static int R,C;
 	static boolean fin;
