@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_S4_1244_최영진 {
+public class Main_S4_1244 {
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static int click;
 	static int arr[];
