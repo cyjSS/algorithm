@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
-public class Main_S2_4963_최영진 {
+public class Main_S2_4963 {
 	static int R,C;
 	static int map[][];
 	static boolean visited[][];
