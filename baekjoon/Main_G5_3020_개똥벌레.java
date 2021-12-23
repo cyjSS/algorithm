@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 import java.util.TreeMap;
 
-public class Main_G5_3020_최영진 {
+public class Main_G5_3020 {
 	static int N,H;
 	static int arrUp[],arrDown[];
 	static int mid;
