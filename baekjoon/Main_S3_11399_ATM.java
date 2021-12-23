@@ -6,7 +6,7 @@ import java.io.StringReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main_S3_11399_최영진 {
+public class Main_S3_11399 {
 
 	static int N;
 	static int matrix[];
