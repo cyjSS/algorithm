@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
-public class Main_G2_17143_최영진 {
+public class Main_G2_17143_낚시왕 {
 	static int R,C,M;
 	static class Shark{
 		int r,c,speed,dir,size;
