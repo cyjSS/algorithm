@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_S1_2468_최영진 {
+public class Main_S1_2468 {
 	static int N;
 	static int map[][];
 	static boolean visited[][];

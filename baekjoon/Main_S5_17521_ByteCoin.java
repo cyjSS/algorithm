@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
-public class Main_S5_17521_최영진 {
+public class Main_S5_17521 {
 
 	static long arr[];
 	static long coin;

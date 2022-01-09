@@ -6,7 +6,7 @@ import java.io.StringReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main_S1_1446_최영진 {
+public class Main_S1_1446 {
 	static class Car implements Comparable<Car>{
 		int start, end, weight;
 

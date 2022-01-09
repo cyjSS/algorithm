@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.StringReader;
 
-public class Main_S1_1992_최영진 {
+public class Main_S1_1992 {
 
 	static int N;
 	static int matrix[][];

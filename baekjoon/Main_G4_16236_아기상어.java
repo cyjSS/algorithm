@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_G4_16236_최영진 {
+public class Main_G4_16236 {
 	static class Loc implements Comparable<Loc>{
 		int r,c,cnt,size,eat,total;
 		public Loc(int r, int c, int cnt, int size, int eat, int total) {

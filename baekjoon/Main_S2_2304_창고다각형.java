@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.StringTokenizer;
 
-public class Main_S2_2304_최영진 {
+public class Main_S2_2304 {
 
 	static int N;
 	static int LH[][];

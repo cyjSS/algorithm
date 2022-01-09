@@ -7,7 +7,7 @@ import java.io.StringReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main_G5_1753_최영진 {
+public class Main_G5_1753 {
 	static class Node{
 		int start;
 		Node end;

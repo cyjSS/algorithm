@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 /** 그냥 짝수일때는 CY 홀수면 SK이면 끝인 코드였어.....*/
 
-public class Main_S5_9655_최영진 {
+public class Main_S5_9655 {
 
 	public static void main(String[] args)throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

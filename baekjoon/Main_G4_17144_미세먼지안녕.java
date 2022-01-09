@@ -6,7 +6,7 @@ import java.io.StringReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main_G4_17144_최영진 {
+public class Main_G4_17144 {
 	static int R,C,T;
 	static int map[][], plusMap[][];
 	static int dr[]= {-1,1,0,0}, dc[]= {0,0,-1,1};

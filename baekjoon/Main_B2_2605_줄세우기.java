@@ -6,7 +6,7 @@ import java.io.StringReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class Main_B2_2605_최영진 {
+public class Main_B2_2605_줄세우기 {
 
 	public static void main(String[] args)throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

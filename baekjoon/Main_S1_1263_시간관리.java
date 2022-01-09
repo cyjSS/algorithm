@@ -6,7 +6,7 @@ import java.io.StringReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main_S1_1263_최영진 {
+public class Main_S1_1263 {
 	static class Time implements Comparable<Time>{
 		int start,end;
 

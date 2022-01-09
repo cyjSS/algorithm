@@ -6,7 +6,7 @@ import java.io.StringReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main_G5_1759_최영진 {
+public class Main_G5_1759 {
 
 	static int L,C;
 	static char matrix[];

@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.StringReader;
 
-public class Main_B2_8958_최영진 {
+public class Main_B2_8958_OX퀴즈 {
 
 	static int T;
 	static int cnt,sum;

@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_S3_2606_최영진 {
+public class Main_S3_2606 {
 
 	static int N;
 	static boolean matrix[][];

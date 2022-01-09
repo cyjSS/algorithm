@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_G3_14442_최영진 {
+public class Main_G3_14442_벽부수고이동하기2 {
 	static int N,M,K;
 	static int map[][];
 	static int dr[]= {-1,1,0,0}, dc[] = {0,0,-1,1};
